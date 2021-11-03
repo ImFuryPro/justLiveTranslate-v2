@@ -9,7 +9,7 @@ let newSource = './js/dictionaries/dictionary.json', // Путь до слова
     changeLangButtons = document.querySelectorAll(`[data-action="changeLang"]`); // Получаем все кнопки для смены языка
 
 // По умолчанию "Русский"
-if (localStorage.getItem("lang") === "") {
+if (localStorage.getItem("lang") === "" || localStorage.getItem("lang") === "null" || localStorage.getItem("lang") === null) {
     localStorage.setItem("lang", "ru");
 }
 
