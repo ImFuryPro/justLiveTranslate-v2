@@ -5,7 +5,8 @@ Author: Иван "ImFuryPro" Сапоненко<br />
 Version: 2.0<br />
 Description: Реализует живой перевод сайта по словарю. Версия без использования jQuery.<br />
 
-Версия с JQuery: [https://github.com/ImFuryPro/JustLiveTranslate](https://github.com/ImFuryPro/JustLiveTranslate)
+Версия с JQuery: [https://github.com/ImFuryPro/JustLiveTranslate](https://github.com/ImFuryPro/JustLiveTranslate)<br />
+Demo: [https://imfurypro.ru/examples/translate/](https://imfurypro.ru/examples/translate/)
 
 ## Использование
 1. Устанавливаем необходимый словарь по пути **/js/dictionaries/dictionary.json**;
